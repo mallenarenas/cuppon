@@ -1,0 +1,11 @@
+* {
+    font-family: "Roboto", sans-serif; 
+    margin: 0px 
+}
+.bg-cuppon{
+    background-color: #28A745;
+}
+.text-cuppon{
+    color: #28A745;
+    font-weight:500;
+}
